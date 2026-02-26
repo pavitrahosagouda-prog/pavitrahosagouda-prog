@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 ![logo](https://github.com/pavitrahosagouda-prog/pavitrahosagouda-prog/blob/main/git%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm pavitra hosagouda</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
-<imp align="right" alt="coding" width="400"src="https://github.com/pavitrahosagouda-prog/pavitrahosagouda-prog/blob/main/krsakshi-main.zip">
-
+<img alt="Coding" height="300" width="450" 
+    src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="image">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavitrahosagouda&label=Profile%20views&color=0e75b6&style=flat" alt="pavitrahosagouda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
