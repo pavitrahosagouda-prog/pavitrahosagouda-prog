@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![logo](https://github.com/pavitrahosagouda-prog/pavitrahosagouda-prog/blob/main/git%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm pavitra hosagouda</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
-<imp align="right" alt="coding" width="400"src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<imp align="right" alt="coding" width="400"src="https://github.com/krsakshi/krsakshi.git">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavitrahosagouda&label=Profile%20views&color=0e75b6&style=flat" alt="pavitrahosagouda" /> </p>
 
